@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print(1)
         // Do any additional setup after loading the view.
+        print(2)
     }
 
 
